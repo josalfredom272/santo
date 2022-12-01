@@ -11,4 +11,4 @@ const op = require("./operaciones.js");
     // para colocar el servidor en la red se envia el puerto
     Server.listen(8080);
 
-    console.log("RESULTADO", op.suma(3, 4));
+    console.log("RESULTADO", )
