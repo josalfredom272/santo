@@ -7,5 +7,4 @@
         res.end("Hola Mundo");
     });
 
-    // para colocar el servidor en la red se envia el puerto
-    Server.listen(3000);
+    
