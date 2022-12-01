@@ -12,3 +12,4 @@ const op = require("./operaciones.js");
     Server.listen(8080);
 
     console.log("RESULTADO", op.suma(3, 4));
+    console.log("Nombre es:", op.getNombre());
