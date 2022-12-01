@@ -1,4 +1,4 @@
-const op = require("./operaciones.js");
+const op = require("./operaciones")
 // Server.js
 "use strict";
     var http = require("http");
